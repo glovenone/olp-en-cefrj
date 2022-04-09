@@ -1,4 +1,4 @@
-headword,pos,CEFR,notes,
+word,pos,level,notes,
 exterior,noun,c1,,"update dict_word_trans_map dwtm,dict_word dw set dwtm.cefr='c1' where  dw.word= 'exterior' and dwtm.pos='noun' and dwtm.wid=dw.id;"
 cloak,noun,c1,,"update dict_word_trans_map dwtm,dict_word dw set dwtm.cefr='c1' where  dw.word= 'cloak' and dwtm.pos='noun' and dwtm.wid=dw.id;"
 timid,adjective,c1,,"update dict_word_trans_map dwtm,dict_word dw set dwtm.cefr='c1' where  dw.word= 'timid' and dwtm.pos='adjective' and dwtm.wid=dw.id;"
