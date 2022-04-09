@@ -2171,7 +2171,7 @@ salivary,adjective,c2,,"update dict_word_trans_map dwtm,dict_word dw set dwtm.ce
 hypnotherapy,noun,c2,,"update dict_word_trans_map dwtm,dict_word dw set dwtm.cefr='c2' where  dw.word= 'hypnotherapy' and dwtm.pos='noun' and dwtm.wid=dw.id;"
 wholly,adverb,c2,,"update dict_word_trans_map dwtm,dict_word dw set dwtm.cefr='c2' where  dw.word= 'wholly' and dwtm.pos='adverb' and dwtm.wid=dw.id;"
 remorseful,adjective,c2,,"update dict_word_trans_map dwtm,dict_word dw set dwtm.cefr='c2' where  dw.word= 'remorseful' and dwtm.pos='adjective' and dwtm.wid=dw.id;"
-remonstrate,vern,c2,,"update dict_word_trans_map dwtm,dict_word dw set dwtm.cefr='c2' where  dw.word= 'remonstrate' and dwtm.pos='vern' and dwtm.wid=dw.id;"
+remonstrate,verb,c2,,"update dict_word_trans_map dwtm,dict_word dw set dwtm.cefr='c2' where  dw.word= 'remonstrate' and dwtm.pos='vern' and dwtm.wid=dw.id;"
 remonstrance,noun,c2,,"update dict_word_trans_map dwtm,dict_word dw set dwtm.cefr='c2' where  dw.word= 'remonstrance' and dwtm.pos='noun' and dwtm.wid=dw.id;"
 unexcused,adjective,c2,,"update dict_word_trans_map dwtm,dict_word dw set dwtm.cefr='c2' where  dw.word= 'unexcused' and dwtm.pos='adjective' and dwtm.wid=dw.id;"
 unexceptionally,adverb,c2,,"update dict_word_trans_map dwtm,dict_word dw set dwtm.cefr='c2' where  dw.word= 'unexceptionally' and dwtm.pos='adverb' and dwtm.wid=dw.id;"
